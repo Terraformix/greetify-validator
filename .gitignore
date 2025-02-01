@@ -1,0 +1,96 @@
+# User-specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+[Dd]ebug-windows/
+[Dd]ebug-linux/
+[Dd]ebug-osx/
+[Dd]ebug-netcoreapp*/   
+[Dd]ebug-netstandard2.0/
+[Dd]ebug-netstandard2.1/
+[Dd]ebug-net5.0/
+[Dd]ebug-net6.0/
+
+[Dd]ist/
+[Dd]ist-windows/
+[Dd]ist-linux/
+[Dd]ist-osx/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tye
+.tye/
+
+# ASP.NET temporary files
+wwwroot/
+
+# .NET dependency and build files
+bin/
+obj/
+
+# User-specific files
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+
+# JetBrains Rider project files
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# C# metadata and debug files
+*.pdb
+*.mdb
+*.log
+
+# C# compiled files
+*.dll
+*.exe
+*.exe.config
+*.dll.config
+
+# ASP.NET temporary files
+AspnetCompiler/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
